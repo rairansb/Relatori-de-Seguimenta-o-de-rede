@@ -1,0 +1,25 @@
+# Nmap 7.95 scan initiated Fri Jul 18 18:43:49 2025 as: /usr/lib/nmap/nmap -sn -oN hosts_infra.txt 10.10.30.0/24
+Nmap scan report for 10.10.30.1
+Host is up (0.00049s latency).
+MAC Address: 82:D7:95:66:67:A3 (Unknown)
+Nmap scan report for ftp-server.projeto_final_opcao_1_infra_net (10.10.30.10)
+Host is up (0.000029s latency).
+MAC Address: 32:1A:5C:46:72:F7 (Unknown)
+Nmap scan report for mysql-server.projeto_final_opcao_1_infra_net (10.10.30.11)
+Host is up (0.000033s latency).
+MAC Address: 46:7C:3B:89:82:DC (Unknown)
+Nmap scan report for samba-server.projeto_final_opcao_1_infra_net (10.10.30.15)
+Host is up (0.000083s latency).
+MAC Address: 02:48:39:B2:FD:78 (Unknown)
+Nmap scan report for openldap.projeto_final_opcao_1_infra_net (10.10.30.17)
+Host is up (0.000098s latency).
+MAC Address: 3E:E0:4C:EB:D6:07 (Unknown)
+Nmap scan report for zabbix-server.projeto_final_opcao_1_infra_net (10.10.30.117)
+Host is up (0.000066s latency).
+MAC Address: 8A:30:BE:82:F8:51 (Unknown)
+Nmap scan report for legacy-server.projeto_final_opcao_1_infra_net (10.10.30.227)
+Host is up (0.000080s latency).
+MAC Address: 9A:C4:2F:42:8D:78 (Unknown)
+Nmap scan report for e3065d304337 (10.10.30.2)
+Host is up.
+# Nmap done at Fri Jul 18 18:43:52 2025 -- 256 IP addresses (8 hosts up) scanned in 2.13 seconds

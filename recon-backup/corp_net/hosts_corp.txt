@@ -1,0 +1,19 @@
+# Nmap 7.95 scan initiated Fri Jul 18 18:43:47 2025 as: /usr/lib/nmap/nmap -sn -oN hosts_corp.txt 10.10.10.0/24
+Nmap scan report for 10.10.10.1
+Host is up (0.00013s latency).
+MAC Address: E6:EC:83:95:F1:34 (Unknown)
+Nmap scan report for WS_001.projeto_final_opcao_1_corp_net (10.10.10.10)
+Host is up (0.000074s latency).
+MAC Address: 86:08:AD:32:F8:6A (Unknown)
+Nmap scan report for WS_002.projeto_final_opcao_1_corp_net (10.10.10.101)
+Host is up (0.000088s latency).
+MAC Address: 86:9E:59:F9:AB:43 (Unknown)
+Nmap scan report for WS_003.projeto_final_opcao_1_corp_net (10.10.10.127)
+Host is up (0.000076s latency).
+MAC Address: A6:14:3F:D3:F7:62 (Unknown)
+Nmap scan report for WS_004.projeto_final_opcao_1_corp_net (10.10.10.222)
+Host is up (0.00017s latency).
+MAC Address: 0A:41:D3:8F:91:3B (Unknown)
+Nmap scan report for e3065d304337 (10.10.10.2)
+Host is up.
+# Nmap done at Fri Jul 18 18:43:49 2025 -- 256 IP addresses (6 hosts up) scanned in 2.15 seconds

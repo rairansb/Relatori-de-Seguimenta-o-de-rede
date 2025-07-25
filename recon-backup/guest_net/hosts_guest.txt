@@ -1,0 +1,19 @@
+# Nmap 7.95 scan initiated Fri Jul 18 18:43:52 2025 as: /usr/lib/nmap/nmap -sn -oN hosts_guest.txt 10.10.50.0/24
+Nmap scan report for 10.10.50.1
+Host is up (0.00029s latency).
+MAC Address: 0A:81:E8:38:4F:2F (Unknown)
+Nmap scan report for notebook-carlos.projeto_final_opcao_1_guest_net (10.10.50.2)
+Host is up (0.000044s latency).
+MAC Address: 1A:A2:D6:AF:46:68 (Unknown)
+Nmap scan report for laptop-vastro.projeto_final_opcao_1_guest_net (10.10.50.3)
+Host is up (0.000033s latency).
+MAC Address: 06:EA:8D:F7:B9:F5 (Unknown)
+Nmap scan report for macbook-aline.projeto_final_opcao_1_guest_net (10.10.50.4)
+Host is up (0.000034s latency).
+MAC Address: C6:76:D9:1F:70:AD (Unknown)
+Nmap scan report for laptop-luiz.projeto_final_opcao_1_guest_net (10.10.50.5)
+Host is up (0.000048s latency).
+MAC Address: C2:30:AD:E8:91:14 (Unknown)
+Nmap scan report for e3065d304337 (10.10.50.6)
+Host is up.
+# Nmap done at Fri Jul 18 18:43:54 2025 -- 256 IP addresses (6 hosts up) scanned in 2.18 seconds

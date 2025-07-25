@@ -1,0 +1,9 @@
+Starting Nmap 7.95 ( https://nmap.org ) at 2025-07-25 18:14 UTC
+Nmap scan report for ftp-server.projeto_final_opcao_1_infra_net (10.10.30.10)
+Host is up (0.000056s latency).
+
+PORT   STATE SERVICE
+21/tcp open  ftp
+MAC Address: 2E:7E:B9:6C:F6:C2 (Unknown)
+
+Nmap done: 1 IP address (1 host up) scanned in 0.37 seconds
