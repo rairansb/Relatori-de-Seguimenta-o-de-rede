@@ -82,5 +82,5 @@ Acesse:
 
 **Rairan Barbosa**  
 📧 [rairandesbravador@gmail.com](mailto:rairandesbravadorb@gmail.com)  
-🔗 [linkedin.com/in/rairanbarbosa](https://www.linkedin.com/in/rairan-barbosa/)  
+🔗 [linkedin.com/in/rairan-barbosa](https://www.linkedin.com/in/rairan-barbosa/)  
 🛠️ Analista de Sistemas
