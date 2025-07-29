@@ -1,7 +1,7 @@
 # 🔐 Análise de Segmentação de Rede.
 
 
-Projeto tecnico do modulo 1 da formacao-cybersec Vai na Web e Kensey, voltado para auditoria de redes segmentadas utilizando containers Docker. O objetivo é identificar falhas de segurança, má segmentação, serviços expostos e riscos de movimentação lateral em ambientes corporativos simulados.
+Projeto técnico do modulo 1 da formacao-cybersec Vai na Web e Kensey, voltado para auditoria de redes segmentadas utilizando containers Docker. O objetivo é identificar falhas de segurança, má segmentação, serviços expostos e riscos de movimentação lateral em ambientes corporativos simulados.
 
 ## 📌 Objetivo
 
@@ -71,8 +71,8 @@ O relatório completo com tabelas, diagnóstico e plano de ação está disponí
 
 ## 🖼️ Diagramas e Evidências
 
-- Diagrama lógico da rede: esta no PDF e no arquivo [`redes.diagrama.html`](.resdes.diagrama.html)
-- Prints dos terminais: Estão no arquivo de relatorio em PDF.
+- Diagrama lógico da rede: esta no PDF e no arquivo [`redes.diagrama.html`](./redes.diagrama.html)
+- Prints dos terminais: Estão no arquivo de relatorio em PDF e na para [`Pints-comandos-retono`](./Pints-comandos-retono)
 - Saídas de ferramentas: [`Estão na pasta recon-backup`](./recon-backup)
 
 Acesse:  
