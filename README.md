@@ -66,14 +66,14 @@ Cada container simula um host real com serviços e comportamento de rede especí
 
 ## 📎 Relatório Técnico
 
-O relatório completo com tabelas, diagnóstico e plano de ação está disponível neste repositório:  
+O relatório completo com tabelas, diagnóstico e plano de ação está disponível neste repositório, recomendo fazer o download do arquivo:  
 📄 [`Relatorio_Segmentacao_de_Rede.pdf`](./Relatorio_Segmentacao_de_Rede.pdf)
 
 ## 🖼️ Diagramas e Evidências
 
-- Diagrama lógico da rede
-- Prints dos terminais
-- Saídas de ferramentas
+- Diagrama lógico da rede: esta no PDF e no arquivo [`redes.diagrama.html`](.resdes.diagrama.html)
+- Prints dos terminais: Estão no arquivo de relatorio em PDF.
+- Saídas de ferramentas: [`Estão na pasta recon-backup`](./recon-backup)
 
 Acesse:  
 📁 [github.com/rairansb/Relatori-de-Seguimenta-o-de-rede](https://github.com/rairansb/Relatori-de-Seguimenta-o-de-rede)
